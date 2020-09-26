@@ -1,0 +1,2 @@
+# babel_kws
+基于kaldi下的babel项目复杂环境下语音关键字检索
